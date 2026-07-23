@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SolarSystem.unity
     guid: 66aff04477929f84cbc666830a0666ba
   - enabled: 1
+    path: Assets/Scenes/ExploreMars.unity
+    guid: 49f3f3302105940619b948d647aab96b
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
