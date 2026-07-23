@@ -106,4 +106,5 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 # VS Code settings (auto-generated per machine, causes checkout conflicts)
-.vscode/settings.json 
+.vscode/settings.json .DS_Store
+Assets/.DS_Store
